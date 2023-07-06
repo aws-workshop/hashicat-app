@@ -12,7 +12,13 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!555555555</h2></center>
+  <center><h2>Meow World!555555555cd /root/terraform-cloud
+
+# 1. Create a policy set from VCS.
+# 2. Enable automated policy as code
+# 3. Apply to hashicat-aws workspace
+terraform apply -auto-approve
+</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
 
